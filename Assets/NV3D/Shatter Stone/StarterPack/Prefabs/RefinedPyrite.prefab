@@ -166,7 +166,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jumpDuration: 0.4
-  jumpDistance: 1
+  jumpDistance: 0.3
   jumpHeight: 1
   spinRate: 20
   jumpCurve:
