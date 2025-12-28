@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: baa56c72ff61da44896ff1b04c32063d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274477
+  packageName: 'Shatter Stone: Starter Pack'
+  packageVersion: 3.0.1
+  assetPath: Assets/NV3D/Shatter Stone/Shared/Demo Assets/Instructions.prefab
+  uploadId: 767423
