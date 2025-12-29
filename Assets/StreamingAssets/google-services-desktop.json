@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721045706718",
+    "project_id": "unity-liveops-core",
+    "storage_bucket": "unity-liveops-core.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721045706718:android:2bc788307b2ed7a56a6f4f",
+        "android_client_info": {
+          "package_name": "com.Giantess.Unity_LiveOps_Core"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGkEb_tDEqNC2ufqWW9IA59NfPWZ7_nCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
